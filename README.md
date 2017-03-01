@@ -1,5 +1,5 @@
-# design-patterns-for-hoomans
-Design Patterns for Hoomans™ - An ultra-simplified meow explanation
+# Design Patterns For Hoomans
+Design Patterns for Hoomans - An ultra-simplified meow explanation
 
 Simple Factory
 --------------
