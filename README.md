@@ -116,7 +116,9 @@ Template Method
 
 ![Template Method](https://c7.staticflickr.com/2/1030/1431411478_a4caca635b.jpg)
 
-
+Other information
+------------------
+I will continue to improve this, so you might want to watch/star this repository to revisit.
 
 LICENCE
 -------------
