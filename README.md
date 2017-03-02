@@ -64,7 +64,7 @@ Flyweight
 Proxy
 ------------
 
-![Proxy]()
+![Proxy](https://d.justpo.st/media/images/2016/03/12/orange-cat-hugging-another-cat-1457793327.jpg)
 
 Chain of Responsibility
 ------------
@@ -104,7 +104,7 @@ Visitor
 Strategy
 ------------
 
-![Strategy]()
+![Strategy](http://tmstudent.ru/uploads/redactor/2015/12/6de6dba6a97bce1d70e94bf93bffa51b.jpg)
 
 State
 ------------
@@ -114,7 +114,7 @@ State
 Template Method
 ------------
 
-![Template Method]()
+![Template Method](https://c7.staticflickr.com/2/1030/1431411478_a4caca635b.jpg)
 
 
 
