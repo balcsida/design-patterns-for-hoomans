@@ -1,5 +1,11 @@
 # Design Patterns For Hoomans
+[![Gratipay User](https://img.shields.io/gratipay/user/makmlnv.svg?style=flat-square)]()
+[![Gratipay User](https://img.shields.io/badge/meow-meow-brightgreen.svg?style=flat-square)]()
+
 Design Patterns for Hoomans - An ultra-simplified meow explanation
+
+
+
 
 Simple Factory
 --------------
