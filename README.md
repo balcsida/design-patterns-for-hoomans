@@ -54,7 +54,7 @@ Decorator
 Facade
 ------------
 
-![Facade]()
+![Facade](http://cdn3-www.cattime.com/assets/uploads/2016/03/cats-politics-political-office.jpg)
 
 Flyweight
 ------------
@@ -94,12 +94,12 @@ Memento
 Observer
 ------------
 
-![Observer]()
+![Observer](http://2.bp.blogspot.com/-J_p-AfLnNBI/U7pkNTDyJ8I/AAAAAAAAA2A/TGv1Ig6Bhxo/s1600/cat-in-box-14914.jpg)
 
 Visitor
 ------------
 
-![Visitor]()
+![Visitor](http://oddstuffmagazine.com/wp-content/uploads/2011/10/lionvscat03.jpeg)
 
 Strategy
 ------------
@@ -109,7 +109,7 @@ Strategy
 State
 ------------
 
-![State]()
+![State](http://home.exetel.com.au/fanderson/faid/images/fa054.jpg)
 
 Template Method
 ------------
