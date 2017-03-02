@@ -69,27 +69,27 @@ Proxy
 Chain of Responsibility
 ------------
 
-![Chain of Responsibility]()
+![Chain of Responsibility](https://static1.squarespace.com/static/51baafcae4b06ac3549aa15d/t/55b0adc2e4b028f9ef816548/1437642184108/)
 
 Command
 ------------
 
-![Command]()
+![Command](http://tonsofcats.com/wp-content/uploads/2013/08/Obey-my-command.jpg)
 
 Iterator
 ------------
 
-![Iterator]()
+![Iterator](http://i.imgur.com/BiiYxNu.jpg)
 
 Mediator
 ------------
 
-![Mediator]()
+![Mediator](http://images1.tickld.com/live/fb_826124.jpg)
 
 Memento
 ------------
 
-![Memento]()
+![Memento](http://files.dogster.com/pix/articles/a7e11fa3c256bdb2a2cd8f4039904c98_1272402064.jpg)
 
 Observer
 ------------
