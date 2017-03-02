@@ -1,5 +1,5 @@
 # Design Patterns For Hoomans
-[![Gratipay User](https://img.shields.io/gratipay/user/makmlnv.svg?style=flat-square)]()
+[![Gratipay User](https://img.shields.io/gratipay/user/makmlnv.svg?style=flat-square)](https://gratipay.com/makmlnv/)
 [![Gratipay User](https://img.shields.io/badge/meow-meow-brightgreen.svg?style=flat-square)]()
 [![forthebadge](http://forthebadge.com/badges/contains-cat-gifs.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/badges/makes-people-smile.svg)](http://forthebadge.com)
