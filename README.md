@@ -120,6 +120,15 @@ Other information
 ------------------
 I will continue to improve this, so you might want to watch/star this repository to revisit.
 
+Created By
+-------
+Maksym Yemelianov
+
+<a href="https://twitter.com/makmlnv">
+<img alt="Follow me on Twitter"
+src="http://i.imgur.com/Y6YCiG3.png" width="50"/>
+</a>
+
 LICENCE
 -------------
 
