@@ -1,8 +1,5 @@
 # Design Patterns For Hoomans
-[![Gratipay User](https://img.shields.io/gratipay/user/makmlnv.svg?style=flat-square)](https://gratipay.com/~makmlnv/)
 [![Gratipay User](https://img.shields.io/badge/meow-meow-brightgreen.svg?style=flat-square)]()
-[![forthebadge](http://forthebadge.com/badges/contains-cat-gifs.svg)](http://forthebadge.com)
-[![forthebadge](http://forthebadge.com/badges/makes-people-smile.svg)](http://forthebadge.com)
 
 Design Patterns for Hoomans - An ultra-simplified meow explanation
 
@@ -32,12 +29,12 @@ Builder
 Prototype
 ------------
 
-![Prototype](http://www.theonlinecentral.com/wp-content/uploads/2015/08/momma-cats-with-her-cute-mini-me-13.jpg)
+![Prototype](https://i.pinimg.com/564x/71/23/80/712380197d3291248f199ffbb5789aa8.jpg)
 
 Singleton
 ------------
 
-![Singleton](http://i1.trekearth.com/photos/67146/alonecat.jpg)
+![Singleton](http://cdn8.whiskeyriff.com/wp-content/uploads/alone-cat-cozy-mood-Favim.com-3931965.jpg)
 
 Adapter
 ------------
@@ -52,7 +49,7 @@ Bridge
 Composite
 ------------
 
-![Composite]()
+![Composite](http://www.cutestpaw.com/wp-content/uploads/2015/08/catmini-27.jpg)
 
 Decorator
 ------------
@@ -82,7 +79,7 @@ Chain of Responsibility
 Command
 ------------
 
-![Command](http://tonsofcats.com/wp-content/uploads/2013/08/Obey-my-command.jpg)
+![Command](https://mag.uchicago.edu/sites/default/files/1703_Smith_Modo.jpg)
 
 Iterator
 ------------
@@ -97,7 +94,7 @@ Mediator
 Memento
 ------------
 
-![Memento](http://files.dogster.com/pix/articles/a7e11fa3c256bdb2a2cd8f4039904c98_1272402064.jpg)
+![Memento](http://uploads.neatorama.com/images/posts/747/89/89747/1460915926-5.jpg)
 
 Observer
 ------------
@@ -112,7 +109,7 @@ Visitor
 Strategy
 ------------
 
-![Strategy](http://tmstudent.ru/uploads/redactor/2015/12/6de6dba6a97bce1d70e94bf93bffa51b.jpg)
+![Strategy](https://i.ytimg.com/vi/PJb4b3D7twA/maxresdefault.jpg)
 
 State
 ------------
@@ -130,7 +127,7 @@ I will continue to improve this, so you might want to watch/star this repository
 
 Created By
 -------
-Maksym Yemelianov
+Max Yemelianov
 
 <a href="https://twitter.com/makmlnv">
 <img alt="Follow me on Twitter"
